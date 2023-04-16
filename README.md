@@ -1,6 +1,8 @@
 # Swift Format Plugin
 A swift package manager command plugin for [swift-format](https://github.com/apple/swift-format).
 
+**The official Format and Lint plugin is out, see [apple/swift-format](https://github.com/apple/swift-format) for more information.**
+
 ## Getting Started
 To use this plugin from other packages, add this plugin as a dependency.
 ```swift
